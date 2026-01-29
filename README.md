@@ -39,7 +39,7 @@ ITの使われ方や教えられ方の“構造”から生まれている**
 
 → [第1章｜なぜ、私たちはコンピュータを使いこなせなくなったのか](01_overview/01_why_we_lost_control.md)
 
-→ [第二章｜Scripterという、もう一つの道](01_overview/02_scripter_as_another_path.md)
+→ [第2章｜Scripterという、もう一つの道](01_overview/02_scripter_as_another_path.md)
 
 ---
 
