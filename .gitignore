@@ -1,0 +1,6 @@
+# Emacs backup and auto-save files
+*~
+\#*\#
+.auto-save-list/
+.elc
+.emacs.desktop*
