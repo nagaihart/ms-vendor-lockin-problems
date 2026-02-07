@@ -26,7 +26,7 @@ Microsoft を中心としたベンダーロックイン構造が
 - 最小の手段で最大の結果を生む考え方
 - 自分のため、人のために道具を組み合わせるという発想
 
-📄 [第2章を読む](./01_overview/02_what_is_scripter.md)
+📄 [第2章を読む](./01_overview/02_scripter_as_another_path.md)
 
 ---
 
